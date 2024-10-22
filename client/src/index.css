@@ -414,7 +414,7 @@ body tr{
         color: var(--dark-color);
       }
 
-      &input,
+      & input,
       button{
         max-width: 30rem;
       }
