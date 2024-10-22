@@ -1,0 +1,37 @@
+[
+  {
+    "propertyName": "Downtown Office Space",
+    "propertyType": "Office",
+    "location": "123 Main St, San Francisco, CA",
+    "pricePerNight": "250",
+    "description": "A modern office space located in the heart of the financial district, perfect for startups and established businesses."
+  },
+  {
+    "propertyName": "Riverside Retail Store",
+    "propertyType": "Retail",
+    "location": "456 River Rd, Chicago, IL",
+    "pricePerNight": "300",
+    "description": "A prime retail location with high foot traffic, ideal for boutiques and pop-up shops."
+  },
+  {
+    "propertyName": "Industrial Warehouse",
+    "propertyType": "Industrial",
+    "location": "789 Industrial Blvd, Houston, TX",
+    "pricePerNight": "450",
+    "description": "Spacious warehouse with loading docks, perfect for logistics and distribution companies."
+  },
+  {
+    "propertyName": "Creative Studio Loft",
+    "propertyType": "Loft",
+    "location": "321 Arts District, Los Angeles, CA",
+    "pricePerNight": "200",
+    "description": "An inspiring loft space designed for artists and creatives, located in a vibrant neighborhood."
+  },
+  {
+    "propertyName": "Co-Working Space",
+    "propertyType": "Co-Working",
+    "location": "654 Startup Ave, New York, NY",
+    "pricePerNight": "150",
+    "description": "Flexible co-working space with shared amenities, ideal for freelancers and remote teams."
+  }
+]
